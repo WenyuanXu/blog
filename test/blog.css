@@ -1,0 +1,35 @@
+body a{
+	text-decoration: none;
+}
+.header{
+	background: #202020;
+	float: left;
+	padding: 60px 58px 230px 56px;
+	width: 139px;
+	height: 700px;
+	text-align: center;
+	color: #ffffff;
+}
+.header h1{
+	font-size: 24px;
+}
+.header ul{
+	list-style-image: url(images/主页.png);
+	line-height: 2.5;
+	font-size: 18px;
+	margin-top: 70px;
+	margin-bottom: 75px;
+}
+.header ul a{
+	color: #ffffff;
+}
+.header table td{
+      text-align: left;
+       width: 44px;
+}
+.article{
+	background: #ee82ee;
+	padding: 60px 100px 10px 405px;
+	width: 915px;
+	height:920px; 
+}
