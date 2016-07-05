@@ -33,3 +33,21 @@ body a{
 	width: 915px;
 	height:920px; 
 }
+.advice ol li{
+	float: left;
+	margin-right: 15px; 
+}
+.date1{
+	position: absolute;
+	text-align: right;
+	top: 60px;
+	right: 30px;
+	width: 90px;
+}
+.date2{
+	position: absolute;
+	text-align: right;
+	top: 380px;
+	right: 30px;
+	width: 90px;
+}
