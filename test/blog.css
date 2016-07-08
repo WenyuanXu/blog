@@ -5,7 +5,7 @@ body a{
 .header{
 	background: #202020;
 	float: left;
-	padding: 60px 55px 235px 55px;
+	padding: 60px 55px 150px 55px;
 	width: 140px;
 	height: 475px;
 	text-align: center;
@@ -18,7 +18,7 @@ body a{
 	list-style-image: url(images/主页.png);
 	line-height: 2.5;
 	font-size: 18px;
-	margin:70px 25px;
+	margin:50px 25px 45px 25px;
 }
 .header ul a{
 	color: #ffffff;
@@ -32,10 +32,10 @@ body a{
        width: 40px; 
 }
 .article{
-	background: #ee82ee;
-	padding: 60px 100px 0px 100px;
+	background: #FFB7DD;
+	padding: 45px 100px 0px 85px;
 	width: 915px;
-	height:710px; 
+	height:640px; 
 	margin-left: 250px;
 	font-size: 16px;
 }
@@ -43,26 +43,32 @@ h2{
 	font-size: 32px;
 }
 #advice{
-	padding: 10px 0px 10px 10px;
+	padding: 10px 0px 10px 25px;
 	margin-top: 10px;
 	margin-bottom: 0px;
 	border-left: 2px solid;
+    border-color: #AAAAAA;
 }
 #answers{
-	padding: 10px 0px 10px 10px;
+	padding: 10px 0px 10px 25px;
 	border-left: 2px solid;
+	border-color: #AAAAAA;
 }
+.article2{
+	margin-top: 50px;
+}
+
 .date1{
 	position: absolute;
 	text-align: center;
-	top: 80px;
+	top: 70px;
 	right: 100px;
 	width: 90px;
 }
 .date2{
 	position: absolute;
 	text-align: center;
-	top: 470px;
+	top: 485px;
 	right: 100px;
 	width: 90px;
 }
